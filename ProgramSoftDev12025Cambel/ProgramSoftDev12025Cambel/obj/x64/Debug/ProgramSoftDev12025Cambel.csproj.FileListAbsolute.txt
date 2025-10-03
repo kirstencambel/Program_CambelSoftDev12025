@@ -1,0 +1,12 @@
+C:\Users\STUDENT - 07\source\repos\ProgramSoftDev12025Cambel\ProgramSoftDev12025Cambel\bin\x64\Debug\SoftDev1DB.accdb
+C:\Users\STUDENT - 07\source\repos\ProgramSoftDev12025Cambel\ProgramSoftDev12025Cambel\bin\x64\Debug\ProgramSoftDev12025Cambel.exe.config
+C:\Users\STUDENT - 07\source\repos\ProgramSoftDev12025Cambel\ProgramSoftDev12025Cambel\bin\x64\Debug\ProgramSoftDev12025Cambel.exe
+C:\Users\STUDENT - 07\source\repos\ProgramSoftDev12025Cambel\ProgramSoftDev12025Cambel\bin\x64\Debug\ProgramSoftDev12025Cambel.pdb
+C:\Users\STUDENT - 07\source\repos\ProgramSoftDev12025Cambel\ProgramSoftDev12025Cambel\obj\x64\Debug\ProgramSoftDev12025Cambel.csproj.AssemblyReference.cache
+C:\Users\STUDENT - 07\source\repos\ProgramSoftDev12025Cambel\ProgramSoftDev12025Cambel\obj\x64\Debug\ProgramSoftDev12025Cambel.Form1.resources
+C:\Users\STUDENT - 07\source\repos\ProgramSoftDev12025Cambel\ProgramSoftDev12025Cambel\obj\x64\Debug\ProgramSoftDev12025Cambel.Properties.Resources.resources
+C:\Users\STUDENT - 07\source\repos\ProgramSoftDev12025Cambel\ProgramSoftDev12025Cambel\obj\x64\Debug\ProgramSoftDev12025Cambel.csproj.GenerateResource.cache
+C:\Users\STUDENT - 07\source\repos\ProgramSoftDev12025Cambel\ProgramSoftDev12025Cambel\obj\x64\Debug\ProgramSoftDev12025Cambel.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT - 07\source\repos\ProgramSoftDev12025Cambel\ProgramSoftDev12025Cambel\obj\x64\Debug\ProgramSoftDev12025Cambel.exe
+C:\Users\STUDENT - 07\source\repos\ProgramSoftDev12025Cambel\ProgramSoftDev12025Cambel\obj\x64\Debug\ProgramSoftDev12025Cambel.pdb
+C:\Users\STUDENT - 07\source\repos\ProgramSoftDev12025Cambel\ProgramSoftDev12025Cambel\obj\x64\Debug\ProgramSoftDev12025Cambel.exe.config
